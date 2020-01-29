@@ -1,0 +1,27 @@
+<span id="a">capucine@rosset</span>:<span id="b">~</span><span id="c">$</span> cd CapucineRosset/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">capucine@rosset</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[capucinerosset].txt<br/><br/>
+My favorite quote: "<span id="k">Stay afraid but do it anyway</span>". <!-- sjkfhskjf -->
+
+Hi there! I am Capucine Rosset.
+
+I am a former digital marketer now working in front-end development.
+
+Since I coded my first 'Hello World' a few years ago, I’ve become addicted to creative problem-solving and bringing new ideas to life.
+
+Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
+
+Technologies I like and use daily: HTML & CSS, JavaScript, React, MongoDB, Express, Node.js.
+<br>
+Please feel free to checkout out my completed projects:
+My first <a href="https://caprosset.github.io/why-did-the-chicken-cross-the-road/" target="_blank">JavaScript game</a>,
+the <a href="https://neighbourfood-app.herokuapp.com/" target="_blank">NeighbourFood app</a> and
+the <a href="https://ih-alumni-network.herokuapp.com/" target="_blank">Alumni Network app</a>
+<br>
+You can also visit my other profiles here: 
+<a href="https://www.linkedin.com/in/capucinerosset" target="_blank">LinkedIn</a> 
+<a href="https://github.com/caprosset/" target="_blank">Github</a> and 
+<a href="https://twitter.com/caprosset" target="_blank">Twitter</a>.
+<br>
+Looking forward to hearing from you!</p>
+<br>
+Copyright (c) 2019 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
